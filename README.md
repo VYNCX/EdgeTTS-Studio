@@ -1,3 +1,4 @@
 # EdgeTTS-Studio!
 
-https://github.com/user-attachments/assets/c74838fa-321b-43fb-8c16-db82fefa1217
+
+![githubimage1](https://github.com/user-attachments/assets/8fc73f85-dfc2-4966-955e-9abbcffb87e9)
