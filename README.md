@@ -7,6 +7,10 @@
 
 You can run install.bat 
 
+///cmd
+  git clone 
+///
+
 ## Use 
 
 Use with WebUI run app.bat
