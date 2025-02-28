@@ -1,5 +1,6 @@
 torch
 scipy
+edge_tts
 gradio
 librosa
 faster_whisper
