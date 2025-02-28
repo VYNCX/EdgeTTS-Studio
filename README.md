@@ -17,4 +17,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Use 
 
-Use with WebUI run `app.bat`
+Use with WebUI run `app.bat` or
+```cmd
+python app.py
+```
