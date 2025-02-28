@@ -8,7 +8,7 @@
 You can run `install.bat` or
 
 ```sh
-git clone https://github.com/VYNCX/VachanaTTS.git
+git clone https://github.com/VYNCX/EdgeTTS-Studio.git
 cd EdgeTTS-Studio
 pip install -r requirements.txt
 ///GPU Usage
