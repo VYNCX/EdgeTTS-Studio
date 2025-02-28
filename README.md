@@ -5,11 +5,15 @@
 
 ## Install
 
-You can run install.bat 
+You can run install.bat or
 
-///cmd
-  git clone 
-///
+```sh
+git clone [https://github.com/VYNCX/VachanaTTS.git](https://github.com/VYNCX/EdgeTTS-Studio.git)
+cd EdgeTTS-Studio
+pip install -r requirements.txt
+///GPU Usage
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
 
 ## Use 
 
